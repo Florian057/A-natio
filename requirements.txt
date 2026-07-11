@@ -1,0 +1,6 @@
+pandas
+pyarrow
+scipy
+scikit-learn
+requests
+pyreadr
