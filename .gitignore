@@ -1,0 +1,15 @@
+# data store (rebuilt via buildDatabase.py)
+data/
+
+# virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
