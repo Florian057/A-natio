@@ -1,4 +1,4 @@
-# nagelsmannGrrr — Moneyball für die deutsche Nationalmannschaft
+# Moneyball für die deutsche Nationalmannschaft
 
 Wendet das Factor-Investing-Muster aus [`../moneyball`](../moneyball) (dort: MLB-Roster)
 auf die Auswahl des DFB-Kaders an: aus einem Faktor-Zoo von Spielerstats herausfinden,
